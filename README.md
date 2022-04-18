@@ -1,6 +1,6 @@
 Email: <reuben_ford@hotmail.com>\
-Website: [greyhope.uk](https://greyhope.uk)\
 GitHub: [github.com/Grey41](https://github.com/Grey41)
+Website: [greyhope.uk](https://greyhope.uk)\
 
 Enjoy creating games, writing applications and experimanting with maths and physics.
 Looking for work experience in a Software Development environment.
