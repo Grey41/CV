@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Reuben Ford
+
+github:
+  is_user_page: true
