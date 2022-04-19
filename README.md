@@ -2,9 +2,10 @@ Email: <reuben_ford@hotmail.com>\
 Website: [greyhope.uk](https://greyhope.uk)
 
 ### Profile
-Enjoy creating games, writing applications and experimenting with maths and physics.
-Looking for work experience in a software development environment.
-Happy to learn and explore new programming tools and languages.
+I enjoy creating games, writing applications and experimenting with 2d physics.
+I am currently interested in the Mandelbrot Set and WebSockets.
+I look forward to implementing a 3d Mandelbulb and making my ownmultiplayer games in JavaScript.
+I am happy to learn and explore new programming tools and languages.
 
 ### Projects
 - **[JS-ByteBase](https://js-bytebase.com):** A JavaScript 2k coding challenge
