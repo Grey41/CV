@@ -1,6 +1,6 @@
 Email Address: <reuben_ford@hotmail.com>\
-Website: [greyhope.uk](https://greyhope.uk)\
-Date of Brith: 7th March 2006
+Date of Brith: 7th March 2006\
+Website: [greyhope.uk](https://greyhope.uk)
 
 ### Profile
 I enjoy creating games, writing applications and experimenting with 2d physics.
