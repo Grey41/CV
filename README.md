@@ -1,20 +1,22 @@
-Email: <reuben_ford@hotmail.com>\
-Website: [greyhope.uk](https://greyhope.uk)
+Email Address: <reuben_ford@hotmail.com>\
+Website: [greyhope.uk](https://greyhope.uk)\
+Date of Brith: 7th March 2006
 
 ### Profile
 I enjoy creating games, writing applications and experimenting with 2d physics.
 I am currently interested in the Mandelbrot Set and WebSockets.
-I look forward to implementing a 3d Mandelbulb and making my ownmultiplayer games in JavaScript.
+I look forward to implementing a 3D Mandelbulb and making my ownmultiplayer games in JavaScript.
 I am happy to learn and explore new programming tools and languages.
 
 ### Projects
-- **[JS-ByteBase](https://js-bytebase.com):** A JavaScript 2k coding challenge
-- **[Code Green](https://greyhope.uk/Code-Green):** Awarded Personal Choice for Technocamps Game of Codes 2022
+- **[JS-ByteBase](https://js-bytebase.com):** A JavaScript 2k coding challenge.
+- **[Code Green](https://greyhope.uk/Code-Green):** Awarded Personal Choice for Technocamps Game of Codes 2022.
+- **[Mandelbrot Zoom](https://github.com/Grey41/Mandelbrot-Zoom):** An application for exploring the Mandelbrot Set.
 
 ### Skills
 - **Frontend:** JavaScript, HTML & CSS
   - Able to design applications and interactive web pages
-  - Canvas games with 2d context and WebGL
+  - Canvas games with 2D context and WebGL
   - WebSocket communication and digital forms
 
 - **Backend:** Node.js & TypeScript
@@ -30,6 +32,7 @@ I am happy to learn and explore new programming tools and languages.
 ### Achievements
 - GCSE Mathematics A*
 - GCSE Mathematics Numeracy A*
+- [RHS Children's Photographer Under 11 Winner 2017](https://www.rhs.org.uk/promotions/rhs-photo-competition/results/2017/childrens-under-11)
 
 ### Education
 - Home educated
