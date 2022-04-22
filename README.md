@@ -3,9 +3,9 @@ Date of Brith: 7th March 2006\
 Website: [greyhope.uk](https://greyhope.uk)
 
 ### Profile
-I enjoy creating games, writing applications and experimenting with 2d physics.
+I enjoy creating games, writing applications and experimenting with 2D physics.
 I am currently interested in the Mandelbrot Set and WebSockets.
-I look forward to implementing a 3D Mandelbulb and making my ownmultiplayer games in JavaScript.
+I look forward to implementing a 3D Mandelbulb and making my own multiplayer games in JavaScript.
 I am happy to learn and explore new programming tools and languages.
 
 ### Projects
