@@ -1,5 +1,5 @@
 Email Address: <reuben_ford@hotmail.com>\
-Date of Brith: 7th March 2006\
+Date of Birth: 7th March 2006\
 Website: [greyhope.uk](https://greyhope.uk)
 
 ### Profile
