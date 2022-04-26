@@ -10,7 +10,7 @@ I am happy to learn and explore new programming tools and languages.
 
 ### Projects
 - **[JS-ByteBase](https://js-bytebase.com):** A JavaScript 2k coding challenge.
-- **[Code Green](https://greyhope.uk/Code-Green):** Awarded Personal Choice for Technocamps Game of Codes 2022.
+- **[Code Green](https://greyhope.uk/Code-Green):** Awarded People's Choice for Technocamps Game of Codes 2022.
 - **[Mandelbrot Zoom](https://github.com/Grey41/Mandelbrot-Zoom):** An application for exploring the Mandelbrot Set.
 
 ### Skills
