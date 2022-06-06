@@ -33,7 +33,3 @@ I am happy to learn and explore new programming tools and languages.
 - GCSE Mathematics A*
 - GCSE Mathematics Numeracy A*
 - [RHS Children's Photographer Under 11 Winner 2017](https://www.rhs.org.uk/promotions/rhs-photo-competition/results/2017/childrens-under-11)
-
-### Education
-- Home educated
-- Basic Spanish communication skills
